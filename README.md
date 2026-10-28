@@ -1,7 +1,4 @@
 # Portable Gaming Device
 
-## Project Showcase
-Click the link below to watch the video demonstration of the project:
-
-[![Watch the video](https://youtu.be/LIlF-m11eEY)]
-
+[![Console Demo](https://img.youtube.com/vi/LIlF-m11eEY/maxresdefault.jpg)](https://youtu.be/LIlF-m11eEY)
+*(Click the image above to watch the unlisted video demonstration)*
